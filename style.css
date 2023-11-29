@@ -1,0 +1,147 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+p ,h1
+{
+    margin: 50PX;
+}
+
+h1
+{
+    font-family: 'KoHo', sans-serif;
+
+}
+p
+{
+    font-family: 'KoHo', sans-serif;
+}
+.child
+{
+    
+    height: 25px;
+    width: 25px;
+    background-color: darkgray;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 15px;
+    
+   
+    
+   
+}
+
+.item2 h1
+{    display: inline;
+     margin-left: 5px;
+     font-size: 28px;
+     
+}
+
+.meal a
+{
+    display:block;
+}
+.meal p
+{
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+.meal
+{
+    margin-top: 2%;
+    width: 33%;
+    height: 50%;
+    text-align: center;
+   float: left;
+   
+}
+
+.clear-fix
+{
+    clear: both;
+}
+
+.titls p , h3
+{   
+    text-align: center;
+    margin: 5px;
+    padding: 1px;
+    font-size: 14px;
+
+    
+}
+
+
+.titls img
+{   
+    margin-left: 30%;
+    margin-top: 4%;
+    margin-bottom: 4px;
+    width: 40%;
+}
+.titll
+{
+ margin-top: 20px;   
+}
+
+.titls h3
+{
+    font-size: 18px;
+}
+
+
+.logo img
+{   
+    
+    margin: 20px;
+    width: 102%;
+    
+}
+.logo p
+{
+    margin: 20px;
+}
+
+.inpuss
+{
+    margin-top: 10%;
+  
+    background-color: white;
+   text-align: center;
+
+}
+.inpus
+{
+    margin-left: 12px;
+
+}
+.inpu
+{
+    margin-bottom: 10px;
+  
+}
+.inpuss button 
+{
+    padding: 3px 7px;
+    margin-right: 10%;
+    margin-top: 5px;
+    
+}
+
+
+
+.pragraph p  
+{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.dina button
+{
+padding: 20px 10px;
+}
